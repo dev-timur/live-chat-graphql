@@ -1,11 +1,9 @@
 ## Getting started
 
 - cd server-live-chat-backend \
-  -yarn
+- yarn \
 
 ### Running the project
-
-Run this command
 
 Client
 
