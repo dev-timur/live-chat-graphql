@@ -1,7 +1,8 @@
 ## Getting started
 
-- cd server-live-chat-backend \
-- yarn \
+### `cd server-live-chat-backend`
+
+### `yarn`
 
 ### Running the project
 
