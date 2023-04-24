@@ -1,0 +1,13 @@
+{
+  "name": "live-chat-ghaphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:client": "cd server-live-chat-frontend && npm start",
+    "start:server": "cd server-live-chat-backend && docker-compose up --build"
+  },
+  "author": "Timur Uazhanov",
+  "license": "ISC"
+}
