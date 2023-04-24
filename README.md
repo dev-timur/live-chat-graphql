@@ -1,6 +1,6 @@
 ## Getting started
 
-### `cd server-live-chat-backend`
+### `cd server-live-chat-frontend`
 
 ### `yarn`
 
